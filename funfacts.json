@@ -1,22 +1,22 @@
 [
   {
     "likes": "playing volleyball",
-    "location" : "on any grassy field",
+    "location" : "on any grassy field"
   },
   {
     "likes": "whitewater kayaking",
-    "location" : "in rivers around New York, Massachusetts, and Vermont",
+    "location" : "in rivers around New York, Massachusetts, and Vermont"
   },
   {
     "likes": "bartending",
-    "location" : "at gigs with the Columbia Bartending Agency",
+    "location" : "at gigs with the Columbia Bartending Agency"
   },
   {
     "likes": "riding her bike",
-    "location" : "down really steep hills",
+    "location" : "down really steep hills"
   },
   {
     "likes": "trying new recipes",
-    "location" : "in the kitchen",
+    "location" : "in the kitchen"
   }
 ]
